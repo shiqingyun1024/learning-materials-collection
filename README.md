@@ -14,7 +14,7 @@ https://github.com/ryanmcdermott/clean-code-javascript
 https://github.com/30-seconds/30-seconds-of-code
 - 注：github后面加1s进入类似vscode的样式可以更好的阅读代码
 
-国内极速版-----
+##### 国内极速版
 - 1、https://gitee.com/mirrors/javascript-algorithms/tree/master - JS 算法
 - 2、https://gitee.com/mirrors/nodebestpractices?_from=gitee_search - node 最佳实践
 - 3、https://gitee.com/crazy3/You-Dont-Know-JS?_from=gitee_search  -你不知道的js
