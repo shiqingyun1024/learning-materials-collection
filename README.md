@@ -2,7 +2,7 @@
 学习资料的收集
 
 #### github学习地址
-、、、
+```
 1.javascript-algorithms(基于javascript的算法和数据结构)
 https://github.com/trekhleb/javascript-algorithms
 2.nodebestpractices(Node.js最佳实践)
